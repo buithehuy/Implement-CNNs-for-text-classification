@@ -19,6 +19,7 @@ This project aims to classify movie reviews as either positive or negative using
 ## Dataset
 
 The project utilizes the "IMDB Dataset.csv" file containing movie reviews and their corresponding sentiments (positive or negative). The dataset is preprocessed by tokenizing the reviews, building a vocabulary, and converting the text into numerical indices.
+link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Model
 
